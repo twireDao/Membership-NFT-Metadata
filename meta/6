@@ -1,54 +1,58 @@
 {
     "tokenId": "6",
     "name": "twire Membership NFT",
-    "description": "What you see here is the first version of the twire member profile. Traits will be revealed soon!",
+    "description": "What you see here is the first version of the twire member profile. The twire member profile is the onchain CV of all twire members.",
     "image": "https://gateway.pinata.cloud/ipfs/QmcCEWKackpv6N1LYTveADuxUNNMpoiVV5xAEuwyQg6BmB",
     "external_url": "https://twire.community",
     "attributes": [
         {
             "trait_type": "Role",
-            "value": "Hidden"
+            "value": "Blockchain Engineer"
         },
         {
             "trait_type": "Member Rank",
-            "value": "TWR MEMBER"
+            "value": "TWR ADVANCED MEMBER"
         },
         {
             "trait_type": "Skill",
-            "value": "Hidden"
+            "value": "Solidity"
         },
         {
             "trait_type": "Skill",
-            "value": "Hidden"
+            "value": "Golang"
         },
         {
             "trait_type": "Skill",
-            "value": "Hidden"
+            "value": "Python"
         },
         {
             "trait_type": "Skill",
-            "value": "Hidden"
+            "value": "Javascript"
         },
         {
             "trait_type": "Skill",
-            "value": "Hidden"
+            "value": "DevOps"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "Cloud"
         },
         {
             "trait_type": "twire Experience Points (tXP)",
             "display_type": "number",
-            "value": "420"
+            "value": "3330"
         },
         {
             "trait_type": "Project involvement",
-            "value": "Hidden"
+            "value": "Carlito Collection"
         },
         {
             "trait_type": "Project involvement",
-            "value": "Hidden"
+            "value": "HIDDEN"
         },
         {
             "trait_type": "Project involvement",
-            "value": "Hidden"
+            "value": "HIDDEN"
         }
     ]
 }
