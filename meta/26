@@ -1,0 +1,54 @@
+{
+    "tokenId": "26",
+    "name": "twire Membership NFT",
+    "description": "What you see here is the first version of the twire member profile. Traits will be revealed soon!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcCEWKackpv6N1LYTveADuxUNNMpoiVV5xAEuwyQg6BmB",
+    "external_url": "https://twire.community",
+    "attributes": [
+        {
+            "trait_type": "Role",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Member Rank",
+            "value": "TWR MEMBER"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Skill",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "twire Experience Points (tXP)",
+            "display_type": "number",
+            "value": "420"
+        },
+        {
+            "trait_type": "Project involvement",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Project involvement",
+            "value": "Hidden"
+        },
+        {
+            "trait_type": "Project involvement",
+            "value": "Hidden"
+        }
+    ]
+}
