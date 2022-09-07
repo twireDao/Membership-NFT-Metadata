@@ -1,7 +1,7 @@
 {
   tokenId: 2,
   name: 'twire Membership NFT 🦦',
-  description: 'What you see here is the first version of the twire member profile. Traits will be revealed soon!',
+  description: "✌️ Hi, I'm Timo.",
   image: 'https://gateway.pinata.cloud/ipfs/QmcCEWKackpv6N1LYTveADuxUNNMpoiVV5xAEuwyQg6BmB',
   external_url: 'https://twire.community',
   attributes: [
@@ -9,25 +9,25 @@
     { trait_type: 'Achievement', value: 'Captain' },
     { trait_type: 'Achievement', value: 'Community Board I' },
     { trait_type: 'Achievement', value: 'Community Board II' },
-    { trait_type: 'role', value: 'Project Lead' },
-    { trait_type: 'role', value: 'Concept' },
-    { trait_type: 'role', value: 'Research' },
-    { trait_type: 'role', value: 'Product' },
-    { trait_type: 'role', value: 'Community' },
-    { trait_type: 'skill', value: 'Project Management' },
-    { trait_type: 'project', value: 'FUTURE FAIR POAP | NEYROO' },
-    { trait_type: 'project', value: 'Concept Workshop | S-Payment' },
-    { trait_type: 'project', value: 'Concept Workshop | Katjes' },
-    { trait_type: 'project', value: 'DAO | Timeless Investments' },
+    { trait_type: 'Role', value: 'Project Lead' },
+    { trait_type: 'Role', value: 'Concept' },
+    { trait_type: 'Role', value: 'Research' },
+    { trait_type: 'Role', value: 'Product' },
+    { trait_type: 'Role', value: 'Community' },
+    { trait_type: 'Skill', value: 'Project Management' },
+    { trait_type: 'Project', value: 'FUTURE FAIR POAP | NEYROO' },
+    { trait_type: 'Project', value: 'Concept Workshop | S-Payment' },
+    { trait_type: 'Project', value: 'Concept Workshop | Katjes' },
+    { trait_type: 'Project', value: 'DAO | Timeless Investments' },
     {
-      trait_type: 'project',
+      trait_type: 'Project',
       value: 'Carlito Collection Discord | Timeless Investments x Cro'
     },
     {
-      trait_type: 'project',
+      trait_type: 'Project',
       value: 'Carlito Collection | Timeless Investments x Cro'
     },
-    { trait_type: 'project', value: 'Weihnachts-NFT | diconium' },
+    { trait_type: 'Project', value: 'Weihnachts-NFT | diconium' },
     {
       trait_type: 'twire Experience Points (tXP)',
       display_type: 'number',
