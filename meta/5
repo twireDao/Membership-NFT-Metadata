@@ -1,54 +1,33 @@
 {
-    "tokenId": "6",
-    "name": "twire Membership NFT",
-    "description": "What you see here is the first version of the twire member profile. Traits will be revealed soon!",
-    "image": "https://gateway.pinata.cloud/ipfs/QmcCEWKackpv6N1LYTveADuxUNNMpoiVV5xAEuwyQg6BmB",
-    "external_url": "https://twire.community",
-    "attributes": [
-        {
-            "trait_type": "Role",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Member Rank",
-            "value": "TWR MEMBER"
-        },
-        {
-            "trait_type": "Skill",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Skill",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Skill",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Skill",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Skill",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "twire Experience Points (tXP)",
-            "display_type": "number",
-            "value": "420"
-        },
-        {
-            "trait_type": "Project involvement",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Project involvement",
-            "value": "Hidden"
-        },
-        {
-            "trait_type": "Project involvement",
-            "value": "Hidden"
-        }
-    ]
+  tokenId: 5,
+  name: 'twire Membership NFT 🌁',
+  description: "✌️ Hi, I'm Michel.",
+  image: 'https://gateway.pinata.cloud/ipfs/QmcCEWKackpv6N1LYTveADuxUNNMpoiVV5xAEuwyQg6BmB',
+  external_url: 'https://twire.community',
+  attributes: [
+    { trait_type: 'Achievement', value: 'Founding Member' },
+    { trait_type: 'Achievement', value: 'twireland 001' },
+    { trait_type: 'Role', value: 'Design' },
+    { trait_type: 'Role', value: 'Concept' },
+    { trait_type: 'Skill', value: 'Figma' },
+    { trait_type: 'Skill', value: 'Web Design' },
+    { trait_type: 'Skill', value: 'Webflow' },
+    { trait_type: 'Skill', value: 'UX Design' },
+    { trait_type: 'Project', value: 'Weltspartag-NFT | S-Payment' },
+    { trait_type: 'Project', value: 'Concept Workshop | Katjes' },
+    {
+      trait_type: 'Project',
+      value: 'Carlito Collection | Timeless Investments x Cro'
+    },
+    { trait_type: 'Project', value: 'Concept Workshop | S-Payment' },
+    {
+      trait_type: 'twire Experience Points (tXP)',
+      display_type: 'number',
+      value: 3328
+    },
+    { trait_type: 'Member Status', value: "Active" },
+    { trait_type: 'Level', value: '1️⃣' },
+    { trait_type: 'Rank', value: 'Trainee' },
+    { trait_type: 'Member Since', value: '2022-03-09' }
+  ]
 }
